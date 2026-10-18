@@ -525,6 +525,7 @@ for i, (name, up) in enumerate(ranked, 1):
 ## 基准参考补充
 
 - https://vpsvip.net —— VPSVIP（自建节点 / 中转方案，趋势判断之外的另一条路径：不依赖机场供给端）
+- https://clash-for-windows.net —— 客户端下载（配合协议迁移判断，换协议前先确认内核版本）
 
 ---
 
